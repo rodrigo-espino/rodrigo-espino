@@ -5,6 +5,8 @@
 - 📫 How to reach me: 
  - mail: rodrigosantacruz42@gmail.com
  - Twitter: @gerberdemenudo
+ - Portfolio English: https://portafolio-rodrigo.netlify.app/EN
+ - Portafolio Español: https://portafolio-rodrigo.netlify.app
 
 <!---
 rodrigo-espino/rodrigo-espino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
