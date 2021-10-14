@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
  - mail: rodrigosantacruz42@gmail.com
  - Twitter: @gerberdemenudo
- - Portfolio English: https://portafolio-rodrigo.netlify.app/EN
+ - Portfolio English: https://portafolio-rodrigo.netlify.app/en
  - Portafolio Español: https://portafolio-rodrigo.netlify.app
 
 <!---
