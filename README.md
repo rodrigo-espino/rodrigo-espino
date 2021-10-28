@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Google, Apple, IBM or Tesla.
 - 📫 How to reach me: 
  - mail: rodrigosantacruz42@gmail.com
- - Twitter: @gerberdemenudo
+ - Twitter: @rodrigo_se_mx
  - Portfolio English: https://portafolio-rodrigo.netlify.app/en
  - Portafolio Español: https://portafolio-rodrigo.netlify.app
 
