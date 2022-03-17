@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying at Unipolidgo to become a software engineering.
 - 💞️ I’m looking to collaborate on Google, Apple, IBM or Tesla.
 - 📫 How to reach me: 
- - mail: rodrigosantacruz42@gmail.com
+ - mail: rodrigo_se_con@outlook.com
  - Twitter: @rodrigo_se_mx
  - Portfolio English: https://portafolio-rodrigo.netlify.app/en
  - Portafolio Español: https://portafolio-rodrigo.netlify.app
