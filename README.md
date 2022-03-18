@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rodrigo-espino
 - 👀 I’m interested in developing of web, AI, mobile devices and desktop.
 - 🌱 I’m currently studying at Unipolidgo to become a software engineering.
-- 💞️ I’m looking to collaborate on Google, Apple, IBM or Tesla.
 - 📫 How to reach me: 
  - mail: rodrigo_se_con@outlook.com
  - Twitter: @rodrigo_se_mx
