@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rodrigo S. Espino
 =========================================================================================================================================
 
-Data Analyst | Future Data Science
+Data Scientist
 ----------------------------------
 
-Hello there! I'm mainly focused on Data Science path, however I'm still working on my knowledge and currently looking for job as Data Analyst or Backend Developer.
+Hello there! I'm mainly focused on Data Science path
 
 * 🌍  I'm based in Durango, Mexico
 * ✉️  You can contact me at [rodrigo\_se\_con@outlook.com](mailto:rodrigo_se_con@outlook.com)
